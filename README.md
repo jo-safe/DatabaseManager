@@ -1,4 +1,4 @@
-# DatabaseManager
+# PostgreSQL Database Manager
 
 ### Расширение проекта PostgreSQL-Operator
 
